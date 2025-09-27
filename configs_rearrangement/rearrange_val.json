@@ -27,6 +27,6 @@
     "debug": false,
     "dump_dir": "./my_results_val",
     "roomr_dir": "datasets/roomr/",
-    "roomr_meta_dir": "/atasets/roomr_meta2",
+    "roomr_meta_dir": "/datasets/roomr_meta2",
     "data_split": "val"
 }
